@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jomarmontuya
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python and machine learning
+- 🌱 Tech stack, react, vue, nodejs, prisma, postgress
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me jomar.montuya@outlook.com
 
