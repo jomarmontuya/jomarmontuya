@@ -7,11 +7,11 @@ I'm a web developer interested in creating robust and intuitive web applications
 - React
 - React Native
 - Vue
-- Javascript / Typescript
 - Node.js
 - RedwoodJs
 - Prisma
 - PostgreSQL
+- Javascript / Typescript
 
 ## 🌱 I'm currently learning
 
