@@ -1,17 +1,6 @@
 # Hey there, I'm Jomar Montuya 👋
 
-I'm a web developer and I work with Zesty.io help maintain headless CMS platform. I specialize in React, React Native, Vue, Node.js, Prisma, and PostgreSQL. I'm always looking for opportunities to collaborate on exciting open source projects.
-
-## 🚀 Skills
-
-- React
-- React Native
-- Vue
-- Node.js
-- RedwoodJs
-- Prisma
-- PostgreSQL
-- Javascript / Typescript
+I work with Zesty.io help maintain headless CMS platform. I specialize in React, React Native, Vue, Node.js, Prisma, and PostgreSQL. I'm always looking for opportunities to collaborate on exciting open source projects.
 
 ## 🌱 I'm currently learning
 
